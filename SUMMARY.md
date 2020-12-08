@@ -2,7 +2,8 @@
 
 * [Security Notes](README.md)
 
-## Misc
+## Miscelaneous
 
-* [Miscelaneous](misc/miscelaneous.md)
+* [GIT](miscelaneous/miscelaneous.md)
+* [Bash](miscelaneous/bash.md)
 
