@@ -8,5 +8,7 @@
 
 {% embed url="https://www.immuniweb.com/ssl/" %}
 
+{% embed url="https://haveibeenpwned.com/" %}
+
 
 
