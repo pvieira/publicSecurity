@@ -2,6 +2,11 @@
 
 * [Security Notes](README.md)
 
+## Sites
+
+* [OSINT](sites/osint.md)
+* [Test](sites/test.md)
+
 ## Cheat Sheets
 
 * [Untitled](cheat-sheets/untitled.md)
