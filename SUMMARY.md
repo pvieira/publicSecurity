@@ -4,11 +4,7 @@
 
 ## Sites
 
-* [OSINT](sites/osint.md)
 * [Test](sites/test.md)
-* [Hardware](sites/hardware.md)
-* [Tools](sites/tools/README.md)
-  * [Untitled](sites/tools/untitled.md)
 * [Videos](sites/videos.md)
 * [Archive](sites/archive.md)
 * [Cypto](sites/untitled/README.md)
