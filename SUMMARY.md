@@ -11,6 +11,8 @@
   * [Untitled](sites/tools/untitled.md)
 * [Videos](sites/videos.md)
 * [Archive](sites/archive.md)
+* [Cypto](sites/untitled/README.md)
+  * [Ciphers](sites/untitled/ciphers.md)
 
 ## Cheat Sheets
 
@@ -22,8 +24,4 @@
 
 * [GIT](miscelaneous/miscelaneous.md)
 * [Bash](miscelaneous/bash.md)
-
----
-
-* [Untitled](untitled.md)
 
